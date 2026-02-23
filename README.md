@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋! Soy Joan Albert Chías</h1>
+<h1 align="center">Hola! Soy Joan Albert Chías</h1>
 <h3 align="center">Desarrollador de Software | Backend & IA | Barcelona</h3>
 
 <br/>
 
-### 👨‍💻 Sobre mí
-
-- 💡 **Perfil:** Desarrollador enfocado en Backend, especializado en la integración de soluciones de Inteligencia Artificial y Optimización de Datos.
-- 🏗️ **Filosofía:** Obsesionado con el código limpio, el orden y la arquitectura escalable.
-- 🎓 **Formación:** Máster FP en IA & Big Data y Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
-- 🚀 **Enfoque:** Construcción de pipelines de datos, automatización y creación de APIs robustas.
+- **Perfil:** Desarrollador enfocado en Backend, especializado en la integración de soluciones de Inteligencia Artificial y Optimización de Datos.
+- **Filosofía:** Obsesionado con el código limpio, el orden y la arquitectura escalable.
+- **Formación:** Máster FP en IA & Big Data y Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+- **Enfoque:** Construcción de pipelines de datos, automatización y creación de APIs robustas.
 
 ### 🛠️ Stack Tecnológico
 
@@ -36,8 +34,6 @@
 
 <br/>
 
-### 📊 Estadísticas
-
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Jachias21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Jachias21&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
@@ -45,7 +41,7 @@
 
 <br/>
 
-### 📫 Contacto
+### Contacto
 
 <div align="left">
   <a href="mailto:joanalbertchias9@gmail.com" target="_blank">
