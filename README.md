@@ -8,7 +8,7 @@
 - **Formación:** Máster FP en IA & Big Data y Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
 - **Enfoque:** Construcción de pipelines de datos, automatización y creación de APIs robustas.
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" title="Java" />
