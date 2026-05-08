@@ -1,145 +1,216 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   JOAN ALBERT CHÍAS CATALÀ  ·  Software & AI Engineer        ║
-║   Barcelona, España  ·  Building things that think           ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=72&duration=1&pause=99999&color=0F0F0F&center=true&vCenter=true&width=900&height=110&lines=Joan+Albert+Chías" alt="Name"/>
+</a>
+
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=400&size=20&duration=3000&pause=1500&color=666666&center=true&vCenter=true&width=900&height=36&lines=Software+%26+AI+Engineer+·+Barcelona;Building+things+that+think+and+scale;Clean+architecture.+Real+value." alt="Taglines"/>
+</a>
+
+<br/>
+
+<a href="mailto:joanalbertchias9@gmail.com"><img src="https://img.shields.io/badge/✉ Email-0f0f0f?style=flat-square&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/joanalbert-chias-catala/"><img src="https://img.shields.io/badge/in LinkedIn-0f0f0f?style=flat-square&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/📍 Barcelona-0f0f0f?style=flat-square"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="mailto:joanalbertchias9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-joanalbertchias9-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/joanalbert-chias-catala/">
-    <img src="https://img.shields.io/badge/LinkedIn-joanalbert--chias--catala-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+<!---------------------------------------------------------------------------->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=3&width=100%25" width="100%"/>
 
 <br/>
 
----
-
-## `> whoami`
-
-```python
-engineer = {
-    "nombre":    "Joan Albert Chías Català",
-    "rol":       "Software & AI Engineer",
-    "ubicacion": "Barcelona 🇪🇸",
-    "enfoque":   ["Machine Learning", "Pipelines ETL", "Backend", "Mobile"],
-    "filosofia": "Arquitectura limpia · Código que escala · Datos con valor real",
-    "estado":    "Máster FP IA & Big Data — en curso"
-}
-```
-
-<br/>
-
----
-
-## `> stack --list`
-
-<div align="center">
-
-**Lenguajes**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Frameworks & Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-**IA & Datos**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Bases de datos**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Herramientas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-## `> cat experience.log`
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="58%" valign="top">
 
 ```
-[01/2025 → 06/2025]  Nexia APPS · Desarrollador Full-Stack
-  ├── IoT de seguridad crítica en React Native (geolocalización en tiempo real)
-  ├── App de gestión empresarial en Flutter + notificaciones con Laravel
-  └── UI/UX responsivo multi-dispositivo
+▸ SOBRE MÍ
 ```
 
-<br/>
+Ingeniero en **Software & IA**, especializado en diseño de arquitecturas
+limpias y procesamiento de datos a gran escala.
 
----
+Obsesionado con transformar datos en valor real —
+desde la ingesta en crudo hasta modelos en producción.
 
-## `> ls -la projects/`
+Actualmente completando el **Master FP en IA & Big Data** en STUCOM,
+fusionando backend robusto con inteligencia predictiva.
+
+</td>
+<td width="4%"></td>
+<td width="38%" valign="top" align="center">
 
 ```
-drwxr-xr-x  Rainbow AI           [10/2025 → 01/2026]
-│  ├── Sistema End-to-End de predicción meteorológica para Cataluña
-│  ├── Pipelines ETL automatizados (AEMET + OpenMeteo)
-│  ├── Recursive Forecasting + auditoría de errores
-│  └── Alertas Telegram en tiempo real
-│
-drwxr-xr-x  AI Delivery SL       [10/2025 → 01/2026]
-│  ├── Optimización logística de productos perecederos (VRP)
-│  ├── K-Means Clustering + heurísticas de enrutamiento
-│  ├── Tacógrafo Virtual con restricciones legales de conducción
-│  └── Dashboard interactivo en Streamlit para auditoría de flota
-│
-drwxr-xr-x  Casino Royale App    [01/2025 → 06/2025]
-   ├── App Android nativa (MVVM) + microservicios Spring Boot
-   ├── Persistencia NoSQL con MongoDB
-   └── Capa de seguridad: encriptación y validación de datos
+▸ STATS
 ```
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jachias21&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite&icon_color=0f0f0f&text_color=0f0f0f&bg_color=ffffff" width="100%"/>
 
----
-
-## `> git stats --global`
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jachias21&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Jachias21&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jachias21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=3&width=100%25" width="100%"/>
 
 <br/>
 
----
+<!---------------------------------------------------------------------------->
 
-## `> pacman --contribution-graph`
+```
+▸ STACK TECNOLÓGICO
+```
+
+<table width="100%" cellspacing="0" cellpadding="6" border="0">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python&theme=light" width="38"/><br/><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java&theme=light" width="38"/><br/><sub>Java</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kotlin&theme=light" width="38"/><br/><sub>Kotlin</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dart&theme=light" width="38"/><br/><sub>Dart</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring&theme=light" width="38"/><br/><sub>Spring Boot</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flutter&theme=light" width="38"/><br/><sub>Flutter</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react&theme=light" width="38"/><br/><sub>React Native</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=laravel&theme=light" width="38"/><br/><sub>Laravel</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="38"/><br/><sub>MySQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="38"/><br/><sub>MongoDB</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=light" width="38"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=light" width="38"/><br/><sub>Figma</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=light" width="38"/><br/><sub>Postman</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=light" width="38"/><br/><sub>VSCode</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=androidstudio&theme=light" width="38"/><br/><sub>Android Studio</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=light" width="38"/><br/><sub>Linux</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+
+```
+▸ EXPERIENCIA
+```
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="16%" valign="top">
+<sub><code>01/2025 → 06/2025</code></sub><br/>
+<sub>Barcelona</sub>
+</td>
+<td width="3%" valign="top" align="center"><sub>│</sub></td>
+<td valign="top">
+
+**Nexia APPS** &nbsp;·&nbsp; *Desarrollador Full-Stack*
+
+Solución IoT de seguridad crítica en **React Native** con geolocalización en tiempo real · Módulos de gestión empresarial en **Flutter** + notificaciones con **Laravel** · Diseño UI/UX responsivo multi-dispositivo.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+
+```
+▸ PROYECTOS DESTACADOS
+```
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+
+<td width="49%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f4f4f4&height=180&text=🌦+Rainbow+AI&fontColor=0f0f0f&fontSize=26&fontAlign=50&fontAlignY=42&desc=Predicción+Meteorológica+·+Cataluña&descAlign=50&descAlignY=64&descSize=13&descColor=555555" width="100%"/>
+
+<sub>`Python · ETL · Recursive Forecasting · Telegram`</sub>
+
+Pipeline End-to-End con **AEMET + OpenMeteo**.
+Modelos de Series Temporales + auditoría de errores.
+Sistema de alertas automáticas por Telegram.
+
+</td>
+
+<td width="2%"></td>
+
+<td width="49%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=180&text=🚚+AI+Delivery+SL&fontColor=ffffff&fontSize=26&fontAlign=50&fontAlignY=42&desc=Optimización+Logística+·+VRP&descAlign=50&descAlignY=64&descSize=13&descColor=aaaaaa" width="100%"/>
+
+<sub>`Python · K-Means · Streamlit · Heurísticas`</sub>
+
+Sistema VRP con **K-Means Clustering** para reducción de costes.
+Tacógrafo Virtual con restricciones legales reales.
+Dashboard Streamlit — auditoría de flota vs. flota IA.
+
+</td>
+</tr>
+
+<tr><td colspan="3"><br/></td></tr>
+
+<tr>
+
+<td width="49%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=180&text=🎰+Casino+Royale&fontColor=c9a84c&fontSize=26&fontAlign=50&fontAlignY=42&desc=App+Android+·+Microservicios+Backend&descAlign=50&descAlignY=64&descSize=13&descColor=997a30" width="100%"/>
+
+<sub>`Kotlin · Spring Boot · MongoDB · MVVM`</sub>
+
+Arquitectura distribuida Android MVVM + microservicios.
+Persistencia NoSQL — perfiles, historial y sesiones concurrentes.
+Capa de seguridad: encriptación y validación de datos.
+
+</td>
+
+<td width="2%"></td>
+
+<td width="49%" valign="top" align="center">
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jachias21&layout=donut&hide_border=true&theme=graywhite&bg_color=fafafa&title_color=0f0f0f&text_color=555555&langs_count=6" width="88%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=3&width=100%25" width="100%"/>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+
+```
+▸ ACTIVIDAD RECIENTE
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jachias21&theme=minimal&hide_border=true&bg_color=ffffff&color=0f0f0f&line=0f0f0f&point=0f0f0f&area=true&area_color=eeeeee" width="100%"/>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+
+```
+▸ CONTRIBUCIONES
+```
 
 <div align="center">
   <picture>
@@ -151,17 +222,18 @@ drwxr-xr-x  Casino Royale App    [01/2025 → 06/2025]
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=3&width=100%25" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-```
-┌────────────────────────────────────────────────────────────┐
-│  "Arquitectura limpia. Datos con valor. Sistemas que       │
-│   escalan. Obsesionado con hacerlo bien desde el día uno." │
-└────────────────────────────────────────────────────────────┘
-```
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=600&size=14&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=800&lines=Arquitectura+limpia.+Datos+con+valor.+Sistemas+que+escalan.;Disponible+para+colaborar+·+joanalbertchias9%40gmail.com" alt="Footer"/>
+</a>
 
-*Mira los repositorios pineados*
+<br/>
+
+*`👇 Explora los repositorios pineados`*
 
 </div>
