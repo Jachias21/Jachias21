@@ -13,7 +13,7 @@
 
 ---
 
-Ingeniero en **Software & IA** — especializado en arquitecturas limpias, pipelines de datos y desarrollo móvil. Actualmente cursando el **Master FP en IA & Big Data** en STUCOM.
+Ingeniero en **Software & IA** — especializado en arquitecturas limpias, pipelines de datos y desarrollo móvil.
 
 ---
 
